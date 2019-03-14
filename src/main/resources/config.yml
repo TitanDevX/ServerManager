@@ -1,0 +1,16 @@
+###########################################
+#   Players Manager Configuration file    #
+#   Plugin made by:TitanDev(or JustAgame) #
+###########################################
+
+# if true, it will need to make sure the player (that clicked on the item)
+# is really sure he wanna kick/ban/depoist player. 
+# he can reply in the chat with 'YES [reason]'
+ask-before-red: true
+
+# if 'ask-before-red' is false the reason will be this:
+defult-reason: '&4Cheating is not allowed on this server.'
+
+# if 'ask-before-red' is false the given money will be this:
+default-money: 100
+

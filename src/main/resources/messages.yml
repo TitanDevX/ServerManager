@@ -1,0 +1,133 @@
+# Placeholders:
+# target: The player.
+# reason: the reason.
+# admin: The player that clicked on the item (admin player).
+ban: "&7You have banned &c{target} &7For {reason}"
+
+# Placeholders:
+# target: The player.
+# reason: the reason.
+# admin: The player that clicked on the item (admin player).
+kick: "&7You have kicked &c{target} &7For {reason}"
+
+
+# Placeholders:
+# target: The player.
+# amount: The given amount.
+# balance: Target's balance amount.
+# admin: The player that clicked on the item (admin player).
+give-message-to-admin: "&8You gave &c{target} {amount} &8Now he have &c{balance}"
+
+# Placeholders:
+# target: The player.
+# amount: The given amount.
+# balance: Target's balance amount.
+# admin: The player that clicked on the item (admin player).
+give-message-to-target:  "&8You were given &c{amount} &8By &c{admin} &8Now have &c{balance}"
+
+# Placeholders:
+# target: The player.
+# admin.
+pardon: "&c{target} &8Has been unBanned!"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-creative-to-admin: "&8you have changed &c{target}&8's Gamemode to &cCreative."
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-creative-to-target: "&8Your game mode has changed to &cCreative &8By &c{admin}"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-survival-to-admin: "&8You have changed &c{target}&8's Gamemode to &cSurvival."
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-survival-to-target:  "&8Your game mode has changed to &cSurvival &8By &c{admin}"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-spectator-to-admin: "&8You have changed &c{target}&8's Gamemode to &cSpectator."
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+set-sepctator-to-target: "&8Your game mode has changed to &cSpectator &8By &c{admin}"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+tp-here-to-admin: "&8Say welcome for &c{target}&8!"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+tp-here-to-target: "&c{admin} &8Has teleported you to his location."
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+# location: the new location
+tp-to-admin: "&8You teleported &c{target} &8To &c{location}"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+tp-to-target: "&c{admin} &8has teleported you to this location, enjoy it!"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+tpto-to-admin: "&8You have teleported to &c{target}&8's location."
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+tpto-to-target: "&c{admin} &8has teleported to your location, say welcome!"
+
+
+# Placeholders:
+# target: The player.
+# amount: The given amount.
+# balance: Target's balance amount.
+# admin: The player that clicked on the item (admin player).
+take-to-admin: "&8You take &c{amount} &8from &c{target}, &8Now he have &c{balance}"
+
+# Placeholders:
+# target: The player.
+# amount: The given amount.
+# balance: Target's balance amount.
+# admin: The player that clicked on the item (admin player).
+take-to-target: "&8You were Taken &c{amount} &8By &c{admin} &8Now have &c{balance}"
+
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+# group: New group.
+groupchange-to-admin: "&8You added &c{target} &8to group &c{group}"
+ 
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+# group: New group.
+groupchange-to-target: "&c{admin} &8has added you to group &c{group}"
+
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+# prefix: New prefix.
+prefixchange-to-admin: "&8You changed &c{target}&8's group prefix to &c{prefix}"
+
+# Placeholders:
+# target: The player.
+# admin: The player that clicked on the item (admin player).
+# prefix: New prefix.
+prefixchange-to-target: "&8Your group prefix has got changed to &c{prefix} &8By &c{prefix}"
