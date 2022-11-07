@@ -1,1 +1,1 @@
-"# ServerManager" 
+Plugin is discontinued.
